@@ -20,7 +20,8 @@ El instituto de El Rincón tiene un salón de actos que podemos usar para alguna
 charla general en que queramos a todos los asistentes reunidos.
 
 Aparte, hay un aulario en la acera de enfrente (aislado del resto del instituto)
-con un montón de aulas de informática bastante apañadas y una salita de reuniones.
+con un montón de aulas de informática bastante apañadas (nos 30 puestos por aula)
+y una salita de reuniones.
 
 Podemos disponer de todo ello.
 
