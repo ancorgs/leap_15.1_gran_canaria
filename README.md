@@ -20,7 +20,7 @@ El instituto de El Rincón tiene un salón de actos que podemos usar para alguna
 charla general en que queramos a todos los asistentes reunidos.
 
 Aparte, hay un aulario en la acera de enfrente (aislado del resto del instituto)
-con un montón de aulas de informática bastante apañadas (nos 30 puestos por aula)
+con un montón de aulas de informática bastante apañadas (unos 30 puestos por aula)
 y una salita de reuniones.
 
 Podemos disponer de todo ello.
@@ -50,9 +50,10 @@ si es que tenemos algo interesante que ofrecerles (ver más abajo).
 ## Los ponentes y los temas
 
 Evidentemente, el grueso de contenido será "todo aquello que los desarrolladores
-canarios de SUSE quieran contar sobre Linux y software libre". Pero también
-habíamos pensado darle un toque a los desarrolladores de Red Hat que hay en la
-isla, por si se quieren unir.
+canarios de SUSE quieran contar sobre Linux y software libre". Pero también se
+nos unirán los desarrolladores de Red Hat que hay en la isla, que por supuesto
+tienen sus propias cosas interesantes que contar (incluso material ya
+preparado).
 
 Por otro lado, de cara a los profesores sería interesante contar con alguien de
 SUSE que les explique en qué consiste SUSE Academy. Si viene alguien de Madrid o
