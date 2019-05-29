@@ -27,7 +27,7 @@ En el aulario
   * Control de versiones con Git
 
 * A las 12:00
-  * Curso acelerado para la nube: introducción y administración automatizada
+  * Curso acelerado para la nube: configurando 100s de máquinas con Ansible
   * Gestión de configuraciones con SaltStack
   * Integración continua a lo grande: openSUSE Tumbleweed
   * La importancia del Software Libre en la Salud Pública
