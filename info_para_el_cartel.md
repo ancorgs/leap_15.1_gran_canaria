@@ -2,7 +2,7 @@
 
 ## Título del evento
 
-Celebrando openSUSE Leap 15.1: jornada sobre Linux y Software Libre
+**Celebrando openSUSE Leap 15.1: jornada sobre Linux y Software Libre**
 
 ## Logo principal
 
