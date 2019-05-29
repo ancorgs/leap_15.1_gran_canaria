@@ -34,7 +34,7 @@ En el aulario
 
 * A partir de las 13:00
   * Instalación asistida de openSUSE para todos
-  * Consultorio de Linux y software libre
+  * Consultorio de Linux y Software Libre
 
 ## Ponentes
 
