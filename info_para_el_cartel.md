@@ -8,6 +8,8 @@ Celebrando openSUSE Leap 15.1: jornada sobre Linux y Software Libre
 
 El logo principal a mostrar debería ser el de openSUSE
 
+![openSUSE](logos/openSUSE_logo.svg)
+
 ## Programa
 
 En el salón de actos
@@ -39,4 +41,8 @@ En el aulario
 No creo que haga falta detallarlos. Sólo poner los logos de las organizaciones.
 Algo así como...
 
-Con ponentes de:
+_Con ponentes de:_
+
+| Gnu Health | SUSE | Red Hat    |
+|------------|------|------------|
+| <img src="https://raw.githubusercontent.com/ancorgs/leap_15.1_gran_canaria/master/logos/gnu-health_logo.png" width="150"> | ![SUSE](logos/suse_logo.svg) | ![Red Hat](logos/RedHat_logo.svg) |
